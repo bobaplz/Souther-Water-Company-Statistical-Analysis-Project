@@ -8,7 +8,7 @@ Columns: 10(8 different Pump readings of Surjek with PUMP FAILURE (0 and 1) and 
 
 Rows: 2453
 
-This case study is divided into one financial analysis, one market economics analysis and two Statistical analyis.
+This case study is divided into one financial analysis, one market economics analysis, and two Statistical analyis.
 
 Financial Analysis :
 
