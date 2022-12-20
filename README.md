@@ -17,9 +17,31 @@ For Southern Water Corp. I will measure my analytical su1ccess by ensuring you c
 the EBIT, Revenues, and Operational Expenses at a macro and micro level.
 This analysis is broken up into three (3) overall components. I have analyzed the subsequent revenues, operational expenses, EBIT, and tell the overall story the company has uncovered.
 
+Relevant Files 
+
+(a) Southern Water Company [Financial Analysis Objective Statement] - 
+This file is an objective statement written by me to understand the company's goal and to drill down into smaller breakdowns what to find in this project.  Please read this objective statement as an outlook of this project for the financial analysis.
+
+(b) Southern Water Corp Financial Project_EBIT - 
+There three separated parts in this master excel file for the financial analysis : 
+a) Revenue Analysis b) Expenses Analysis c) EBIT Analysis
+
+(c) Presentation Southern Water Corp_Financial Analysis - 
+This is an overall outlook of what I have found from this project. 
+Based on Excel Master file, I have created KPI in each segmentation and projected the relationships between chemical expenditures and water production actual by units.
+
+
+
+
+
+
 Economics Analysis :
 
 For market economic analysis, I’ll be measuring analytical success by ensuring you can clearly tell the executives at Southern Water Corp a meaningful story that unpacks the elasticity analysis between soft and hard water products. This is to be followed by a cost-effectiveness evaluation for each desalination plant and whether  I can clearly identify the best periods to perform a major outage.
+
+
+
+
 
 
 Statistical Anaysis :
