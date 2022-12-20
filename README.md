@@ -30,15 +30,25 @@ a) Revenue Analysis b) Expenses Analysis c) EBIT Analysis
 This is an overall outlook of what I have found from this project. 
 Based on Excel Master file, I have created KPI in each segmentation and projected the relationships between chemical expenditures and water production actual by units.
 
----------------------------------------------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------------------------------------
 
 
 Economics Analysis :
 
 For market economic analysis, I’ll be measuring analytical success by ensuring you can clearly tell the executives at Southern Water Corp a meaningful story that unpacks the elasticity analysis between soft and hard water products. This is to be followed by a cost-effectiveness evaluation for each desalination plant and whether  I can clearly identify the best periods to perform a major outage.
 
+--------------------------------------------------- ## Relevant Files ## ----------------------------------------------------
 
-  
+(a) Southern Water Company [Market Economics Analysis Objective Statement] - This file is an objective statement written by me to understand the company's goal and to drill down into smaller breakdowns what to find in this project. Please read this objective statement as an outlook of this project for the Market Economics Analysis.
+
+(b) Southern Water Corp Market Economics Anysis - There three separated parts in this master excel file for the economics analysis : a) What-If Analysis b) Economics Market Analysis c) Economics Cost Analysis
+
+(c) Presentation Southern Water Corp Economics - This is an overall outlook of what I have found from this project. Based on Excel Master file, I have created KPI in each segmentation and analyzed the elasticity patterns in between Hard Water and Soft Water products.
+
+
+-------------------------------------------------------------------------------------------------------------------------------
+
+
 Statistical Anaysis :
 
 1 -- Exploratory Data Analysis
