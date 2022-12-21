@@ -12,7 +12,7 @@ This case study is divided into one financial analysis, one market economics ana
 
 ## Financial Analysis :
 
-For Southern Water Corp. I will measure my analytical success by ensuring Southern Water Corp. a meaningful story that unpacks the EBIT, Revenues, and Operational Expenses at a macro and micro level.
+For Southern Water Corp. I will measure my analytical success by ensuring I can tell Southern Water Corp. a meaningful story that unpacks the EBIT, Revenues, and Operational Expenses at a macro and micro level.
 This analysis is broken up into three (3) overall components. I have analyzed the subsequent revenues, operational expenses, EBIT, and tell the overall story the company has uncovered.
 
 * Relevant Files
@@ -33,7 +33,7 @@ Based on Excel Master file, I have created KPI in each segmentation and projecte
 
 ## Economics Analysis :
 
-For market economic analysis, I’ll be measuring analytical success by ensuring you can clearly tell the executives at Southern Water Corp a meaningful story that unpacks the elasticity analysis between soft and hard water products. This is to be followed by a cost-effectiveness evaluation for each desalination plant and whether  I can clearly identify the best periods to perform a major outage.
+For market economic analysis, I’ll be measuring analytical success by ensuring I can clearly tell the executives at Southern Water Corp a meaningful story that unpacks the elasticity analysis between soft and hard water products. This is to be followed by a cost-effectiveness evaluation for each desalination plant and whether  I can clearly identify the best periods to perform a major outage.
 
 * Relevant Files
 
