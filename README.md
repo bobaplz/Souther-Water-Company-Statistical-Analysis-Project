@@ -12,9 +12,7 @@ This case study is divided into one financial analysis, one market economics ana
 
 ## Financial Analysis :
 
-Ultimately, to tell a meaningful story that drives meaningful insights. 
-For Southern Water Corp. I will measure my analytical su1ccess by ensuring you can tell Southern Water Corp. a meaningful story that unpacks
-the EBIT, Revenues, and Operational Expenses at a macro and micro level.
+For Southern Water Corp. I will measure my analytical success by ensuring Southern Water Corp. a meaningful story that unpacks the EBIT, Revenues, and Operational Expenses at a macro and micro level.
 This analysis is broken up into three (3) overall components. I have analyzed the subsequent revenues, operational expenses, EBIT, and tell the overall story the company has uncovered.
 
 * Relevant Files
