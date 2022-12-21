@@ -47,7 +47,7 @@ For market economic analysis, I’ll be measuring analytical success by ensuring
 -------------------------------------------------------------------------------------------------------------------------------
 
 
-Statistical Anaysis :
+## Statistical Anaysis :
 
 1 -- Exploratory Data Analysis
 
@@ -58,3 +58,17 @@ Hence, in this case I will not remove the outliers from the dataset. However, to
 
 In this data analysis, I will use OLS Regression Model in the statsmodel.api library, to create a regression equation that models the Pump Failure (Y-Variable) against 
 all the independent variables, which include every other variable that is not PUMP FAILURE (1 or 0). I will be using Seaborn (heatmap) with (corr) function which will give us R- Squared values. R-Squared closer to 1 = highest correlation w.r.t. pump failure. I will use the correlation coefficient values of each pumps to calculate multivariate regression model by using OLS Regression Model to predict pump failure patterns and validate that prediction by calculating coefficient matrix.
+
+* Relevant Files
+
+(a) Southern Water Company [Statistics Analysis Objective Statement] - This file is an objective statement written by me to understand the company's goal and to drill down into smaller breakdowns what to find in this project. Please read this objective statement as an outlook of this project for the Statistics Analysis.
+
+(b) Southern Water Corp Statistics Analysis - There two separated parts in this master excel file for the statistics analysis : a) Descriptive Statistics b) Inferential Statistics 
+
+(c) Presentation Southern Water Corp Statistics - This is an overall outlook of what I have found from this project. Based on Excel Master file, I have detected the correlations among the operational factors which make negative impact on water pump failure.
+
+## (d) Southern Water Corp OLS Statistics Analysis in Python 
+- I revisited the Pump Data from Statistics Analysis above and added more sophisticated work with Python in order to automate the process for the future use.
+- Used Jupyter Notebook
+- Included both descriptive statistics and inferential statistics
+- Included box plot, correlation heatmap, bar/line plot, timeframe chart
